@@ -1,3 +1,4 @@
+package placement;
 import javax.swing.JDialog;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
