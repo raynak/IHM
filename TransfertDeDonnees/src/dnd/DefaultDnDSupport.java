@@ -2,6 +2,8 @@
  * @author <a href="mailto:gery.casiez@lifl.fr">Gery Casiez</a>
  */
 
+package dnd;
+
 import javax.sound.midi.MidiUnavailableException;
 import javax.swing.*;
 
