@@ -1,0 +1,17 @@
+1) pas d'application
+	a - rappels sur le telephonne, assez rare
+
+2) 7-8
+3) ordinaire
+4) principalement 2 : un pour le sport et un pour les études
+
+5) Une fois par jour
+6) Les cours, les entrainnements de foot, les matches le WE
+7) Toutes les semaines
+
+8) Matche : la distance, le temps de parcours pour se rendre au rdv
+9) Sport et études
+		(classement par couleurs)
+10) du sport, loisirs, console
+		pas dans edt car pas défini (quand t'as le temps)
+

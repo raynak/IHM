@@ -1,0 +1,24 @@
+theme : emplois du temps
+
+SD		Quelle application d'emploi du temps utilisez-vous ?
+
+SD		combien de rdv avez-vous eu la semaine dernière ?
+SD		était-ce une semaine ordinaire ? si non, pourquoi ?
+SD		Combien d'emplois du temps avez-vous ?
+
+SO		a quelle fréquence consultez-vous votre emploi du temps ?
+			- une fois par jour
+			- plusieurs fois par jour
+			- plusieur fois par semaine ?
+			- jamais ?
+SO		Quelles activités sont récurrentes dans votre emploi du temps ?
+SO		A quelle fréquence votre emploi du temps change-t-il ?
+			- Tous les jours
+			- Toutes les semaines
+			- Tous les mois
+			- Tous les trois mois 
+			- Tous les semestres 
+
+GO		Quelles informations notez-vous dans vos emplois du temps ?
+GO		Quelles catégories utilisez-vous pour classer vos créneaux ?
+GO		Que faites-vous de votre temps libre ?
