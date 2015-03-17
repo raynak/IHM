@@ -174,37 +174,47 @@ public class Placement {
 
 	public void absolu(){
 		this.frame.setLayout(null);
-		this.frame.setSize(300, 200);
-		JButton b1 = new JButton("Bouton 1");
-		b1.setBounds(0,0, 50, 20);
-		b1.repaint();
-
+		int nbButtons = 9;
+		int buttonWidth = 100;
+		int buttonHeight = 20;
+		int buttonSpace = 5;
+		for (int i=0; i<nbButtons; i++) {
+			JButton b1 = new JButton("Bouton "+(i+1));
+			b1.setBounds(i*(buttonWidth/2),i*(buttonHeight+buttonSpace), buttonWidth, buttonHeight);
+			this.frame.add(b1);
+			b1.repaint();
+		}
+		int frameWidth = (nbButtons+1)*(buttonWidth/2)+20;
+		int frameHeight = (nbButtons+1)*(buttonHeight+buttonSpace)+10;
+		this.frame.setPreferredSize(new Dimension(frameWidth, frameHeight));
+		
+		
 	}
 
 	public static void main(String[] args){
 		Placement p = new Placement();
 		p.borderLayout();
-		p.affiche();
+//		p.affiche();
 
 		Placement p2 = new Placement();
 		p2.flowLayout();
-		p2.affiche();
+//		p2.affiche();
 
 		Placement p3 = new Placement();
 		p3.gridLayout();
-		p3.affiche();
+//		p3.affiche();
 
 		Placement p4 = new Placement();
 		p4.boxLayout();
-		p4.affiche();
+//		p4.affiche();
 
 		Placement p5 = new Placement();
 		p5.gridBagLayout();
-		p5.affiche();
+//		p5.affiche();
 
 		Placement p6 = new Placement();
 		p6.absolu();
 		p6.affiche();
-
+		
 	}
 }
