@@ -1,0 +1,6 @@
+GestionDuPlacement : non terminé mais osef, il est pas a rendre
+GestionEvenements : Terminé
+GuidesMagnétiques : En Cours (Nico)
+SwingStates : Terminé
+TP_groupe : faut se réunir tous les 5 pour faire le point
+TransfertDeDonnées : En Cours (Tanguy)
