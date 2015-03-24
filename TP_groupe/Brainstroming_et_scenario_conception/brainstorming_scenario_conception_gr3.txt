@@ -1,0 +1,137 @@
+Brainstorming et Scenarios de conception IHM, gr3 :
+	- Aouragh Farid
+	- El Ouadi Slimane
+	- Maréchal Tanguy
+	- Noullez Nicolas
+	- Youssfi Sofiane
+
+
+
+	BRAINSTORMING
+=======================================================
+1) au réveil, le réveil déclenche toutes les alarmes incendie de la maison
+2) l’emploi du temps déclenche le réveil
+3) on peut pas couper l’alarme depuis le lit
+4) le gars dit “chut” et ca coupe le téléphonne
+5) si t’as entré l’adresse où aller, l’appli fait direct un lien pour avoir le 
+   temps de trajet en temps réel
+6) pour chaque type d’edt, avoir une sonnerie différente
+7) au moment ou sortir, y’a un écran pour dire “tu dois aller là a telle heure”
+8) faut que la maman ait un avertissement comme quoi on a cliqué sur “OK”
+9) si tu claque des mains ca coupe le réveil
+10) avoir des couleurs différentes pour chaque créneau
+11) envoyer un message a la personne automatiquement lors d’un retard
+12) le volume qui s’adapte automatiquement au volume exterieur (ex: la nuit ou 
+    en boite)
+13) deux rdv a deux endroits différents : une alarme pour avertir
+14) notification lors d’un changement par une autre personne
+15) synchro entre les différents terminaux
+16) prochain rdv qui s’affiche tout seul quand on regarde l’heure sur le 
+    téléphone
+17) être prévenu x minutes en avance
+18) montre qui vibre quand l’heure approche
+19) se prend une décharge quand l’heure approche
+20) lit éjectable si tu loupes l’heure
+21) si une personne écrit un rdv, ça l’écrit aussi dans l’edt de l’autre 
+    personne
+22) si qqn note un rdv, l’autre est averti par email
+23) notification visuelle dans les lunettes en cas de problème (retard, …)
+24) noter une liste de taches a faire dans la journée pdt temps libre
+25) truc qui organise tout seul les rendez-vous en fonction de la distance ou 
+    autre
+26) report des taches restantes au lendemain (en fin de journée)
+27) compte a rebours avant le prochain horaire sur la montre ou l’horloge
+28) afficher/masquer certaines catégories
+29) petit dej qui se prépare tout seul en fonction de l’heure a laquelle il faut
+    se lever
+30) met le chauffage en route juste avant de rentrer lorsque l’utilisateur le 
+    dit
+31) pareil mais en fonction de l’horaire de fin
+32) drag n drop pour déplacer
+33) déplacer un rendez vous avec commande vocale
+34) rendez-vous: conseils et temps de préparation
+35) systeme qui traite de “tête en l’air” si t’as été prévenu trop souvent mais 
+    que t’as rien fait
+36) stats sur les types de rdv et te donne des conseils si tu bosse trop ou pas
+37) stats aussi si t’es trop souvent en retard et qu’il faut changer tes 
+    habitudes
+38) système qui gère le temps de sommeil en fonction de tes activités
+39) gère les repas en fonction des activités (sportives ou quoi…)
+40) si t’es en retard, l’agenda te trouve les bonnes excuses
+41) système qui scanne les rdv des autres personnes autour pour voir si elle est 
+    libre pour la draguer
+42) marquer créneau de la salle sur la salle concernée
+43) stats sur les rdv qui se sont bien passés ou pas
+44) choisir l’échelle de temps
+45) pouvoir détailler les créneaux dans un pop up
+46) appeler automatiquement un taxi
+47) si tu recois un appel pendant une activité, la personne qui appelle recoit 
+    un mesg pour expliquer (texto)
+48) l’edt te met indisponible
+49) options pour 47. 48.
+50) tu pose ton téléphonne et l’as l’agenda en hologramme qui s’affiche devant 
+    toi
+51) compte a rebours avant une sortie attendue
+52) scanne un post-it pour entrer une donnée dans l’edt
+53) au lieu d’avoir un rdv t’as une tache a faire pour une certaine date : t’as 
+    le temps restant et le pourcentage effectué
+54) l’edt te dit “ça urge” ou pas
+55) rappel par rapport à cette tache a faire X minutes (heure, jour…) avant
+56) edt mis a jour automatiquement en fonction d’un système (rendu sur PROF 
+    ajouté = edt mis a jour par exemple)
+57) donner une plage possible pour un rdv et préciser le créneau en fonction des 
+    infos du site
+58) déclencher un traitement automatiquement en fonction d’une activité (genre 
+    acheter des places pour un match prochain, ou envoyer TP sur PROF)
+59) rdv de fête : pour la fin du créneau, ça appelle un taxi a ta place
+60) réorganisation automatique de l’edt (si maladie par exemple)
+61) couper tout appareil a telle heure si on dépasse souvent
+62) appeler les flics si le mec est trop bourré à la sortie de soirée et qu’il 
+    a pas appelé de taxi
+63) trouver un rdv : tu mets les deux telephonnes cote a cote et ça affiche les 
+    créneaux libres communs
+64) appeler les pompiers ou l’ambulance ou autre si la personne est partie a 
+    l’heure mais n’arrive vraiment pas a temps
+65) parent vérifie présence des enfants aux rendez-vous
+66) envoi d’informations sur le rdv pour qu’il soit réussi (genre infos sur 
+    l’entreprise pour un entretien d’embauche, …)
+67) enregistrement (vocal, video, …) d’un rdv pour certaines catégories
+68) maj de la messagerie vocale en fonction des rdv qu’on a
+69) synchroniser l’activité sportive (genre application runtastic) avec l’emploi
+    du temps pour avoir un historique
+70) sélection d’un créneau en cliqué-glissé au lieu d’entrer heure de début et 
+    heure de fin
+71) proposition de cadeaux en fonction des anniversaires
+72) envoi automatique du message “bon anniversaire” personnalisé
+73) avertir qu’un contact est occupé avant de l’appeler
+74) l’envoi automatique de message se fait en fonction des personnes (religions, 
+    sensibilité, …) et des évènements
+75) rdv hyper important avec quelqu’un bloque le télephone, seul l’autre 
+    personne peut débloquer le télephone
+76) si t’as un créneau libre et qu’il y a un évènement (dîner technologique) 
+    pas loin, il te le propose
+77) mise a jour des réseaux sociaux si y’a un gros évènement
+
+
+
+	SELECTION D'IDEES
+=======================================================
+63) trouver un rdv : tu mets les deux telephonnes cote a cote et ça affiche les 
+    créneaux libres communs
+    	=> Rapide à utiliser
+    	=> pas de prise de tête pour chercher un créneau libre en commun
+
+52) scanne un post-it pour entrer une donnée dans l’edt
+		=> pratique pour prendre rapidement une note et l'enregistrer plus tard
+		=> Si le tel est occupé (prise de note pdt un appel par expl), on peut
+		   quand meme entrer le rdv facilement
+
+14) notification lors d’un changement par une autre personne
+		=> En cas de changement de dernière minute, tout le monde est averti
+		   (par exemple au volant, notification sonore, on est quand meme averti
+		   du changement sans avoir à consulter ses mails, et on peut s'adapter)
+
+
+
+	SCENARIO DE CONCEPTION
+=======================================================

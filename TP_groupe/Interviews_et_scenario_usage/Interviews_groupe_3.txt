@@ -1,0 +1,84 @@
+Interviews et scenario d'usage IHM, gr3 :
+	- Aouragh Farid
+	- El Ouadi Slimane
+	- Maréchal Tanguy
+	- Noullez Nicolas
+	- Youssfi Sofiane
+
+
+
+	INTERVIEWS
+=======================================================
+QUESTIONNAIRE :
+
+1) Quelle application d'emploi du temps utilisez-vous ?
+
+2) combien de rdv avez-vous eu la semaine dernière ?
+3) était-ce une semaine ordinaire ? si non, pourquoi ?
+4) Combien d'emplois du temps avez-vous ?
+
+5) a quelle fréquence consultez-vous votre emploi du temps ?
+	- une fois par jour
+	- plusieurs fois par jour
+	- plusieur fois par semaine ?
+	- jamais ?
+6) Quelles activités sont récurrentes dans votre emploi du temps ?
+7) A quelle fréquence votre emploi du temps change-t-il ?
+	- Tous les jours
+	- Toutes les semaines
+	- Tous les mois
+	- Tous les trois mois 
+	- Tous les semestres 
+
+8) Quelles informations notez-vous dans vos emplois du temps ?
+9) Quelles catégories utilisez-vous pour classer vos créneaux ?
+10) Que faites-vous de votre temps libre ?
+
+=======================================================
+Interview 1 : Salla Reznov
+
+1) EDT du fil en PDF sur telephonne, appli planning sur iphone
+
+2) lundi complet : entreprise
+	mardi matin - 8h 10h: cours
+	mardi aprem : CAR
+	mercredi et jeudi complets en entreprise
+	vendredi complet : cours
+
+3) Cours pas commencés, sinon oui
+4) Un seul pour les cours, le reste sur une todo list
+
+5) En début de semestre : 3-4 fois par jour, fini par le retenir au bout ed 2-3 semaines, le consulte
+	régulièrement pour connaitre l'edt des potes
+6) Cours, au cine une fois par semaine, d'habitude le mardi soir, foot salle le samedi
+7) une fois toutes les deux semaines, si qq chose est prévu entre potes
+
+8) Le nom du cours, la salle, et l'horaire, adresse pour evnmt particuliers
+9) Pas de catégories particulières, sauf cours
+10) KFC, bosse des fois, rsx sociaux
+		pas besoin de les faire apparaitre. EDT = mettre evnmt sur papier car peut pas mémoriser
+
+---------------------------------------------------
+Interview 2 : Yahia Benali
+
+1) pas d'application
+	a - rappels sur le telephonne, assez rare
+
+2) 7-8
+3) ordinaire
+4) principalement 2 : un pour le sport et un pour les études
+
+5) Une fois par jour
+6) Les cours, les entrainnements de foot, les matches le WE
+7) Toutes les semaines
+
+8) Matche : la distance, le temps de parcours pour se rendre au rdv
+9) Sport et études
+		(classement par couleurs)
+10) du sport, loisirs, console
+		pas dans edt car pas défini (quand t'as le temps)
+
+
+
+	SCENARIO D'USAGE
+=======================================================
